@@ -16,5 +16,5 @@ $python mlmodeler p csv_file model_file.joblib
 
 ### Example:
 
-$python mlmodeler.py p wine_dataset_train.csv wine_dataset_knn.joblib
+$python mlmodeler.py p wine_dataset_validate.csv wine_dataset_knn.joblib
 
